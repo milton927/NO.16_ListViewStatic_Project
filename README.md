@@ -1,2 +1,2 @@
-# NO.16_ListViewStatic_Project
- This project is the ListView static loading and click display
+# Android-Studio-16-ListViewStatic
+ This is the ListView static loading and click display project
